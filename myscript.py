@@ -7,4 +7,5 @@ def do_script ():
 	return "Hello! {0}".format(now)
 
 if __name__ == "__main__":
+	print("Contetn-type: text/html\n\n")
 	print(do_script())
